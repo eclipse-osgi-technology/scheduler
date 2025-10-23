@@ -1,2 +1,2 @@
 # scheduler
-Repository for the scheduler related bundles
+Repository for the scheduler related bundles.
